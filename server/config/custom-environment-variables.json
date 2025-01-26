@@ -1,0 +1,4 @@
+{
+    "mySqlPassword": "mySqlPrivatePassword",
+    "myJwtPassword": "myJwtPrivatePassword"
+}
